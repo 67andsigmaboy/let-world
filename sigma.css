@@ -1,0 +1,30 @@
+#social-media{
+    background: #2f3550;
+}
+.m-heading{
+    color:red;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.media_link{
+    margin-right: 18px;
+    background: transparent;
+    text-align:left;
+    border:2px solid #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.row.pt-5{
+    gap: 20px;
+}
+.media_link h3{
+    font-size:22px;
+    font-weight:600;
+}
+.media_link i{
+    font-size: 20px;
+}
+.media_link.bg-warning{
+    border:2px solid #ffc107;
+}
